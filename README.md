@@ -16,5 +16,7 @@ Then, run:
 bulktypst --template template.typ --csv data.csv --output ./out/
 ```
 
+Example files are provided in the `example` folder.
+
 ## Why?
 This was mostly made for personal use, to start using Rust and as a project for the [Stardance](https://stardance.hackclub.com/) challenge
